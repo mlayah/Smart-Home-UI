@@ -1,6 +1,6 @@
 # SMART HOME UI CONCEPT
 
-<img src="smart_home.jpg"/>
+<img src="smart_home.png"/>
 
 A new Flutter project.
 
